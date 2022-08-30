@@ -1,0 +1,1 @@
+run applications.py and that opens the vizualizer in pygame
